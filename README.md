@@ -37,4 +37,16 @@ pnpm dev
 pnpm build
 ```
 
+## 部署到 GitHub Pages
+
+要将此应用部署到 GitHub Pages，请参考 [GITHUB_PAGES_DEPLOYMENT.md](./GITHUB_PAGES_DEPLOYMENT.md) 文件中的详细说明。
+
+## 本地预览构建
+
+构建完成后，你可以使用以下命令预览生产版本：
+
+```bash
+pnpm preview
+```
+
 更多详细信息请参阅 EDITOR_README.md。
